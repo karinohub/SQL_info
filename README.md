@@ -29,7 +29,7 @@ If *csv* files were used to add data to the tables, they must also be uploaded t
 
 Create a *part2.sql* script, in which write procedures and triggers for adding data, add test queries/calls for each item.
 
-### Part 3. Getting data
+## Part 3. Getting data
 
 Create a *part3.sql* script, in which you should include the procedures and functions for getting data
 
